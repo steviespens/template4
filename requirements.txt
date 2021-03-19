@@ -4,7 +4,7 @@ chardet==3.0.4
 Django==3.0.3
 django-mongodb-engine==0.6.0
 django-redis==4.11.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangotoolbox==1.8.0
 idna==2.8
 pymongo==3.10.1
